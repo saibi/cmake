@@ -1,4 +1,6 @@
-cmake-3.20.1/
+cmake-3.*/
+build/
+.*.swp
 
 # Prerequisites
 *.d
